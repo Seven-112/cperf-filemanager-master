@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mshz.microfilemanager",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "microfilemanager",
+    "packageName": "com.mshz.microfilemanager",
+    "packageFolder": "com/mshz/microfilemanager",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjRiZmE0MjRhNDBhNjE3NTJhMzMzZDJlYjgzODJmODRkYjEwMDljYTg3MTk1YzdjMDc4N2E5ZTAyMDA4ZmNkNWEzMmE1NzBiYzc4MDVmNGY3OGMxMWNkNGNiYWExOTEwYjIxMjkzYTJkMzdiNzE5ZTg0MjdlYzYyNzNjZTJlZTE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1607641302778,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true,
+    "lastLiquibaseTimestamp": 1607641811000
+  }
+}
